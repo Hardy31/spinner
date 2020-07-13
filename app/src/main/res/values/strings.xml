@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="beerAd">Подтвердите выбор</string>
+    <string name="textPr">Здесь будет сорта пива</string>
+    <string-array name="typeBeer">
+        <item>светлое</item>
+        <item>темное</item>
+        <item>легкое</item>
+        <item>крепкое</item>
+        <item>фильтрованное</item>
+        <item>нефильтрованное</item>
+
+    </string-array>
+</resources>
